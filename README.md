@@ -18,7 +18,6 @@
 
 ·使用教程
 
-  
 	1.下载解包工具yabber https://github.com/JKAnderson/Yabber
 	
 	2.将fmg/zhocn文件夹下的dcx文件拖至yabber.exe上方解包
